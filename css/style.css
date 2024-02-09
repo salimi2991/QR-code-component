@@ -69,7 +69,7 @@ main .qr-code .qr-code__info {
   padding-bottom: 3.5rem;
 }
 
-main .qr-code h1 {
+main .qr-code h5 {
   color: var(--clr-dark-blue);
   margin-bottom: 2.1rem;
   font-size: 2.2rem;
